@@ -4,7 +4,7 @@
   "description": "Teste da VAGAS.COM para pessoa desenvolvedora front-end",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html --open",
+    "start": "parcel public/index.html --open",
     "build": "parcel build public/index.html"
   },
   "author": "Vagas",
